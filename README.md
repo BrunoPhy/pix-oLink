@@ -1,8 +1,7 @@
-# Tutorial Completo: Configurando e Rodando o BackScan no Ubuntu do Zero
-
-Este tutorial irá guiar um iniciante absoluto para configurar um ambiente de desenvolvimento no Ubuntu e rodar o projeto **BackScan**.
-
----
+# Meu Tutorial para configurar e Rodando o BackScan no Ubuntu do Zero
+ATENÇÃO!!! 
+Vale se atentar que esse projeto é de autoria de Pedro Teixeira, o link para o projeto do autor: https://github.com/PedroHBessa/backscan
+Este projeto atual tem algumas modificações e passará por mudanças ao longo do tempo e estudos.
 
 ## 1. Atualizar o Sistema Operacional
 Antes de começar, é recomendado atualizar os pacotes do Ubuntu.
