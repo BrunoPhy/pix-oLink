@@ -160,34 +160,8 @@ Abra o **index.html** no navegador e permita o acesso à localização. Se tudo 
 
 ---
 
-## 13. Hospedar a Página HTML na Vercel
+## 13. Hospedar a Página HTML
+Para deixar a interface online, hospedei a página no page do próprio github
 
-Para deixar a interface do **BackScan** online, vamos hospedar o `index.html` na Vercel.
 
-### 13.1 Criar uma Conta na Vercel
-1. Acesse [https://vercel.com/](https://vercel.com/) e crie uma conta (pode usar o login do GitHub).
-2. Após logar, clique em **"New Project"**.
-
-### 13.2 Subir o Projeto para o GitHub
-Caso ainda não tenha subido o código:
-```bash
-git init
-git add index.html
-git commit -m "Adiciona interface do BackScan"
-git branch -M main
-git remote add origin https://github.com/seu-usuario/backscan-frontend.git
-git push -u origin main
-```
-
-### 13.3 Implantar na Vercel
-1. Na Vercel, clique em **"Import Git Repository"** e selecione o repositório do seu projeto.
-2. Escolha as configurações padrão e clique em **Deploy**.
-3. Após a implantação, copie a URL gerada (ex: `https://backscan.vercel.app`).
-
-Agora qualquer pessoa pode acessar sua página! 🚀
-
----
-
-## Conclusão
-Agora você tem o projeto BackScan rodando do zero no Ubuntu, mesmo sem experiência em programação. 🚀
 
