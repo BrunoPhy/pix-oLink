@@ -1,4 +1,4 @@
-# Meu Tutorial para configurar e Rodando o BackScan no Ubuntu do Zero
+# Tutorial para configurar e Rodando o BackScan no Ubuntu do Zero
 ATENÇÃO!!! 
 Vale se atentar que esse projeto é de autoria de Pedro Teixeira, o link para o projeto do autor: https://github.com/PedroHBessa/backscan
 Este projeto atual tem algumas modificações e passará por mudanças ao longo do tempo e estudos.
